@@ -1,1 +1,1 @@
-# Netflix-UI-Clone
+The Netflix  UI Clone project HTML and CSS to replicate Netflix's visual design and responsive interface. Featuring semantic HTML, media queries, and interactive elements, participants gain practical web development skills
